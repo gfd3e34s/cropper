@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/cropper",
-    "description": "Integrate Cropper into laravel-admin",
+    "name": "gfd3e34s/laravel-admin-ext/cropper",
+    "description": "Integrate Cropper into laravel-admin with Translation to Japanese",
     "type": "library",
     "keywords": ["laravel-admin", "extension","cropper","image"],
-    "homepage": "https://github.com/laravel-admin-extensions/cropper",
+    "homepage": "https://github.com/gfd3e34s/cropper",
     "license": "MIT",
     "authors": [
         {

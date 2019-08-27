@@ -160,9 +160,9 @@ function cropper(imgSrc,id,w,h)
         anim: 2,
         resize: false,
         shadeClose: false, //关闭遮罩关闭
-        title: '图片剪裁器',
+        title: '画像を編集',
         content: cropperImg,
-        btn: ['剪裁','原图','清空'],
+        btn: ['保存','閉じる','削除'],
         btn1: function(){
             var cas = cropper.getCroppedCanvas({
                 width: w,
